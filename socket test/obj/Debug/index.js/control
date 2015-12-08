@@ -1,0 +1,13 @@
+facc03d0a3a50b48e41ee68f51f9eb16  usr/include/lua5.1/lfs.h
+facc03d0a3a50b48e41ee68f51f9eb16  usr/include/lua5.2/lfs.h
+8e71945ca084f746b1295f1a86a046ff  usr/lib/x86_64-linux-gnu/liblua5.1-filesystem.a
+a48f8459bbc15cc997455d2eb002d93a  usr/lib/x86_64-linux-gnu/liblua5.2-filesystem.a
+68d80ef32d656df1f7a9eb39b71b177b  usr/lib/x86_64-linux-gnu/pkgconfig/lua5.1-filesystem.pc
+944e19b762cb36fb43f7afd82b867638  usr/lib/x86_64-linux-gnu/pkgconfig/lua5.2-filesystem.pc
+e8b924f5d6c3ede8188545859cf1f1db  usr/share/doc/lua-filesystem-dev/changelog.Debian.gz
+8c45e34727b97f8934021b97ff797d55  usr/share/doc/lua-filesystem-dev/copyright
+73113ee11e6f16abe27a4cb43b3a733b  usr/share/doc/lua-filesystem-dev/us/examples.html
+49b7b7182c843366e49fe852c9019a89  usr/share/doc/lua-filesystem-dev/us/index.html
+8bdace4588f41a2e7ba5cdf220545a3e  usr/share/doc/lua-filesystem-dev/us/license.html
+81e923e976e99f894ea0aa8b52baff29  usr/share/doc/lua-filesystem-dev/us/luafilesystem.png
+5cca087a15feff84547777e4ad591fde  usr/share/doc/lua-filesystem-dev/us/manual.html

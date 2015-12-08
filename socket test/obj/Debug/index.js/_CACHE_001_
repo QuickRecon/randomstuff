@@ -1,0 +1,14 @@
+2b8e4af8da21edb64f8f3a1d1d412842  usr/include/unique-1.0/unique/unique.h
+87bb2d161398df020f90645969d311eb  usr/include/unique-1.0/unique/uniqueapp.h
+bbb5d7746daecc0ea0c8d30ee56a0dff  usr/include/unique-1.0/unique/uniquebackend.h
+c41e70931e07e50890ee74b646980c1e  usr/include/unique-1.0/unique/uniqueenumtypes.h
+f700d32abef22636875715dc01fa0a96  usr/include/unique-1.0/unique/uniquemessage.h
+f8a54bf93325c58ee04936f1823a3d34  usr/include/unique-1.0/unique/uniqueversion.h
+26f9de50bf519e992d55f505785002bd  usr/lib/libunique-1.0.a
+59513946fbbf29cc00a1bd34d73cce51  usr/lib/pkgconfig/unique-1.0.pc
+3cb37c320df6ff60e5621645023f1cfc  usr/share/doc/libunique-dev/AUTHORS
+318b80919ff0bc82c0cb2ed9b46cec76  usr/share/doc/libunique-dev/NEWS.gz
+23056a91ddc5fff3f3550bd4b30cdf4c  usr/share/doc/libunique-dev/README
+bfd7ea645d82d9ac1f164a29f151823a  usr/share/doc/libunique-dev/changelog.Debian.gz
+7f12b5ca3e59634c831977fba667659d  usr/share/doc/libunique-dev/changelog.gz
+2d078a0500e14cdf3789ca3236250e1b  usr/share/doc/libunique-dev/copyright

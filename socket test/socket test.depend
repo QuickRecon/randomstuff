@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1433150773 source:/home/aren/Documents/Code/CodeBlocks Projects/socket test/socket.cpp
+
+1435904932 /home/aren/Documents/Code/CodeBlocks Projects/socket test/socket.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<string>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+
+1437692145 source:/home/aren/Documents/Code/CodeBlocks Projects/socket test/main.cpp
+	"socket.h"
+	"stdlib.h"
+	<libssh/libssh.h>
+
+1433152342 /usr/local/include/gumbo.h
+	<stdbool.h>
+	<stddef.h>
+	"tag_enum.h"
+
+1433152342 /usr/local/include/tag_enum.h
+
