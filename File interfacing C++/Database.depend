@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433078488 source:/home/aren/Documents/Code/CodeBlocks Projects/Database/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
